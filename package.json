@@ -9,6 +9,11 @@
     "react": "16.8.0",
     "@appbaseio/reactivesearch": "latest"
   },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "serve -s build"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
