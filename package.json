@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "name": "poc1",
+  "main": "src/index.js",
+  "keywords": [],
+  "description": "Reactivesearch Starter generated from Search Preview feature of Appbase.io",
+  "dependencies": {
+    "react-dom": "16.8.0",
+    "react": "16.8.0",
+    "@appbaseio/reactivesearch": "latest"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "author": "jyash97@gmail.com"
+}
